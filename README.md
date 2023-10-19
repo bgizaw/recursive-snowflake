@@ -25,7 +25,6 @@ The `snowflake` function recursively draws a snowflake pattern. It uses eight br
 - Turtle graphics library (usually included with Python)
 
 ## Usage
-
 You can use this code to experiment with recursive graphics and explore different shapes and patterns. To use the functions in your own Python program, you need to import them from the provided script.
 
 Example:
